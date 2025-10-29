@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**AyodeleID/AyodeleID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I’m passionate about leveraging economics and data science to understand how the world works.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Economist & Data Scientist — extracting insights from real-world economic data  
+- 🤖 Skilled in machine learning, NLP, forecasting & time-series modeling  
+- 📈 Strong foundation in econometrics, causal inference & statistical learning  
+- 🧠 Research-driven — always exploring new knowledge through data  
+- 🌍 Interested in global development, markets & data-informed policy
+
+## 🛠 Tools & Skills
+
+Python • R • STATA • SQL • Streamlit • Pandas • Scikit-Learn  
+NLP • Forecasting • Time-Series Models • Econometrics • Data Visualization • Research Methods  
+
+## 🤝 Open to Collaboration
+
+Applied economics • Data-driven research • ML & NLP projects • Global analytics
