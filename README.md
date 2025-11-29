@@ -18,4 +18,4 @@ NLP • Forecasting • Time-Series Models • Econometrics • Data Visualizati
 
 ## 🤝 Open to Collaboration
 
-Applied economics • Data-driven research • ML & NLP projects • Global analytics • Data Science
+Applied Econometrics • Data-driven Research • ML & NLP projects • Global Analytics • Data Science
