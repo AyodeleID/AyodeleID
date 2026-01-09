@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 Welcome to my GitHub!  
-I’m passionate about leveraging economics and data science to understand how the world works.
+I am passionate about leveraging data science and econometrics to solve problemsa and understand how the world works.
 
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@ I’m passionate about leveraging economics and data science to understand how t
 - 🤖 Skilled in machine learning, NLP, forecasting & time-series modeling, Big Data Analytics  
 - 📈 Experienced in econometrics, causal inference & statistical Analysis, Geospatial Analysis  
 - 🧠 Research-driven - always exploring new knowledge through data  
-- 🌍 Interested in global development, markets & data-informed policy
+- 🌍 Interested in global development, market and financial modeling & data-informed policy
 
 ## 🛠 Tools & Skills
 
