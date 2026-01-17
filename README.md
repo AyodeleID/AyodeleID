@@ -1,37 +1,36 @@
-# Ayodele ID – Economist & Data Scientist
+# Ayodele ID - Applied Econometrics & ML
 
-Hello there - I am Ayodele. I apply econometrics and data science to answer questions about markets, policy and everyday behaviour. My projects range from forecasting modelling to analysing global trends, big data analytics, and retail promotions and customer analytics. On this page you will find a snapshot of who I am and some selected projects I have been working on.
+I'm Ayodele, an economist who uses data science and machine learning to make sense of markets, policies and everyday behaviour. Rather than a long biography, here’s a quick look at what I do and the tools I work with.
 
 ## What I Do
 
-* **Econometrics & causal inference** – modelling relationships in economic data and measuring the effects of policies or interventions.
-* **Time‑series & forecasting** – predicting trends in financial markets, public health and sports.
-* **Machine learning & natural language processing** – turning unstructured text into structured insights.
-* **Data storytelling** – building dashboards and visualisations that make complex information easy to understand.
+- **Causal analysis:** using econometric models to measure the impact of interventions and policies.
+- **Forecasting & time series:** building models to predict trends in finance, public health and sport.
+- **Machine learning & NLP:** turning unstructured data into actionable insights.
+- **Data stories:** presenting insights through interactive dashboards and visualizations.
 
-## Featured Projects
+## Toolbox
 
-Here are a few highlights from my public repositories. Each project links to the full code and write‑up.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,sql" height="30" alt="Python, R, SQL" />
+  <img src="https://img.shields.io/badge/Stata-%23005CA2.svg?style=flat-square&logo=stata&logoColor=white" height="28" alt="Stata" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" height="28" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" height="28" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Statsmodels-%230173B9.svg?style=flat-square&logo=statsmodels&logoColor=white" height="28" alt="Statsmodels" />
+  <img src="https://img.shields.io/badge/Plotly-%230080FB.svg?style=flat-square&logo=plotly&logoColor=white" height="28" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-FE4C32.svg?style=flat-square&logo=streamlit&logoColor=white" height="28" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Excel-217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white" height="28" alt="Excel" />
+</p>
 
-* **COVID‑19 global analytics** – analysis and visualisation of the spread and economic impact of COVID‑19 across countries, using Python and Plotly.
-* **Financial econometrics codes** – examples of ARMA, GARCH, VAR and other models for returns and volatility in both Python and R.
-* **Rumor detection** – an NLP pipeline for classifying news items as rumours or verified information.
-* **Sales promotion analysis** – an Excel dashboard exploring sales performance during and outside promotional periods.
-* **EPL forecast 2025–26** – time‑series models forecasting English Premier League standings.
+## Selected Projects
 
-You can explore all of my repositories on my GitHub profile. Feel free to browse the code, raise issues or suggest improvements.
+- **[COVID 19 analytics](https://github.com/AyodeleID/Data-Analytics-of-the-Spread-and-Impact-of-COVID-19-Globally)** – global analysis of the pandemic’s spread and its economic impact.
+- **[Financial econometrics](https://github.com/AyodeleID/Financial_Econometrics_Codes)** – examples of ARMA/GARCH/VAR models in Python and R.
+- **[Rumor detection](https://github.com/AyodeleID/Rumor-Detection-Project)** – an NLP pipeline to classify news as rumours or verified information.
+- **[Sales promotion analysis](https://github.com/AyodeleID/Company-Sales-Trend-During-ans-Off-Promotion-)** – interactive dashboard exploring sales performance during and outside promotions.
+- **[EPL forecast 2025–26](https://github.com/AyodeleID/epl-forecast-2025-26)** – time series models forecasting English Premier League outcomes.
 
-## Tools & Languages
-
-Python • R • STATA • SQL • Pandas • scikit‑learn • Statsmodels • Plotly • Streamlit • Excel • LaTeX
-
-## About Me
-
-I studied economics and have always been drawn to the intersection of quantitative methods and real‑world problems. My professional experience spans academic research, consultancy and private sector analytics. I’m always eager to collaborate on projects that use data for social impact, market analysis or innovative technology.
-
-## Get in Touch
-
-If you’d like to discuss a project or just chat about econometrics, you can reach me via my personal site or on LinkedIn. I’m also open to collaborations on open‑source projects.
+For more, feel free to browse my repositories, raise issues or suggest improvements.
 
 ---
 
