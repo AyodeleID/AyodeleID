@@ -1,6 +1,6 @@
 # Ayodele ID – Economist & Data Scientist
 
-Hello there — I’m Ayodele. I apply econometrics and data science to answer questions about markets, policy and everyday behaviour. My projects range from forecasting football standings to analysing global pandemics and retail promotions. On this page you’ll find a snapshot of who I am and what I’ve been working on.
+Hello there - I am Ayodele. I apply econometrics and data science to answer questions about markets, policy and everyday behaviour. My projects range from forecasting modelling to analysing global trends, big data analytics, and retail promotions and customer analytics. On this page you will find a snapshot of who I am and some selected projects I have been working on.
 
 ## What I Do
 
