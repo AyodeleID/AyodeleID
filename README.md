@@ -1,6 +1,6 @@
-# Ayodele ID - Applied Econometrics, Data Science & Machine Learning
+# Ayodele - Applied Econometrics, Data Science & Machine Learning
 
-I'm Ayodele, an economist who uses data science and machine learning to make sense of markets, policies and everyday behaviour. Rather than a long biography, here’s a quick look at what I do and the tools I work with.
+I am Ayodele, an economist and data scientist who uses data science and machine learning to make sense of markets, policies and everyday behaviour. Rather than a long biography, here’s a quick look at what I do and the tools I work with.
 
 ## What I Do
 
