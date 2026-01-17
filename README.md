@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 Welcome to my GitHub!  
-I am passionate about leveraging data science and econometrics to solve problemsa and understand how the world works.
+I am passionate about leveraging data science and econometrics to solve problems and understand how the world works.
 
 ## 🚀 About Me
 
