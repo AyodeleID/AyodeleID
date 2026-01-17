@@ -12,7 +12,10 @@ I'm Ayodele, an economist who uses data science and machine learning to make sen
 ## Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql" height="30" alt="Python, R, SQL" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,mysql" height="36" alt="Python, R, SQL, MySQL" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Stata-%23005CA2.svg?style=flat-square&logo=stata&logoColor=white" height="28" alt="Stata" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" height="28" alt="pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" height="28" alt="scikit-learn" />
@@ -20,7 +23,11 @@ I'm Ayodele, an economist who uses data science and machine learning to make sen
   <img src="https://img.shields.io/badge/Plotly-%230080FB.svg?style=flat-square&logo=plotly&logoColor=white" height="28" alt="Plotly" />
   <img src="https://img.shields.io/badge/Streamlit-FE4C32.svg?style=flat-square&logo=streamlit&logoColor=white" height="28" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Excel-217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white" height="28" alt="Excel" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=flat-square&logo=Power%20BI&logoColor=black" height="28" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=flat-square&logo=Tableau&logoColor=white" height="28" alt="Tableau" />
 </p>
+
+
 
 ## Selected Projects
 
