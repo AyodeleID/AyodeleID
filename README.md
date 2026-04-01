@@ -133,10 +133,10 @@ ayodele = {
 
 ```
 Top SHAP predictors (Migration):
-  1. 🔴 distrust_neighbor    →  −34 pp  (High social distrust ↓ migration)
-  2. 🟢 mig_network          →  +26 pp  (Network size ↑ migration)
-  3. 🔴 hh_biz_num           →  −16 pp  (Owning a business ↓ migration)
-  PSI > 7.2  →  Major structural break confirmed in gold price series (2018–2026)
+  1. 🔴 distrust_neighbor  →  −34 pp  (High social distrust ↓ migration)
+  2. 🟢 mig_network        →  +26 pp  (Network size ↑ migration)
+  3. 🔴 hh_biz_num         →  −16 pp  (Owning a business ↓ migration)
+  PSI > 7.2               →  Major structural break confirmed in gold price series (2018–2026)
 ```
 
 ---
